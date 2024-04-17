@@ -8,3 +8,10 @@
     position: absolute;
     background-color: #263238;
 }
+#text{
+    background-color: #263238;
+    position: absolute;
+    width: 80%;
+    height:100%;
+    right: 20%;
+}
