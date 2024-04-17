@@ -6,10 +6,10 @@
     width: 20%;
     height: 100%;
     position: absolute;
-    background-color: #263238;
+    background-color: rgb(38,50,56);
 }
 #text{
-    background-color: #263238;
+    background-color: rgb(38,50,56);
     position: absolute;
     width: 80%;
     height:100%;
